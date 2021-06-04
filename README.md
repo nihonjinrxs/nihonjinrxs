@@ -1,4 +1,17 @@
-### Hi there 👋
+### Welcome, friend :wave:
+
+You've stumbed upon the Github home of Ryan B. Harvey, a.k.a. `nihonjinrxs` or `CodeAndData`. You can find out more about my prior work and activities at [codeanddata.codes](https://codeanddata.codes).
+
+I'm a fun-loving geek who is driven to create useful things (mostly with code) almost as much as I am called to teach others how to do it themselves. I enjoy diving into data and have been known to get lost in SQL at times. I'm passionate about clean, purposeful interfaces and joyous user experiences. I read lots of books, but never seem to get through my reading list. I'm a happy husband and father of two.
+
+#### ![Healthify Logo - rainbow pride](https://www.healthify.us/hs-fs/hubfs/healthify-pride-logo-1.png?width=162&height=36&name=healthify-pride-logo-1.png)
+I'm currently working with the amazing team at [Healthify, Inc.](https://healthify.us), a startup enabling organizations to address the social determinants of health by providing solutions for identifying social needs, searching for social services, and coordinating care with an integrated network of community partners to improve outcomes. Day-to-day, you can find me working in Ruby on Rails, JavaScript and React, Python3 and dbt, Bash, SQL, Docker, and a few other odds and ends.
+
+On the side, you might find me leading the [Code for New Orleans](https://codeforneworleans.org) volunteer brigade of Code for America, contributing to projects at [Ruby for Good](https://rubyforgood.org/), or teaching Computer Science at [Loyola University New Orleans](https://www.loyno.edu/academics/colleges/college-arts-sciences/computer-science).
+
+#### **Prior work**
+
+Before Healthify, I was on the powerhouse Tech team at [TED](https://www.ted.com), where I worked on video engineering. In that role, I created the [Fessonia library](https://npmjs.com/package/@tedconf/fessonia) to interface Node.js to the FFmpeg command line. I also worked to build out the backend recommendation system and API for the TED Recommends product using R, Node.js, and Golang. Before that, I was an engineer and engineering manager at the [White House Office of Management and Budget](https://www.whitehouse.gov/omb/) and a computer scientist at the [Social Security Administration](https://socialsecurity.gov).
 
 <!--
 **nihonjinrxs/nihonjinrxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
