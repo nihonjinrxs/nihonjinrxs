@@ -2,9 +2,13 @@
 
 You've stumbed upon the Github home of Ryan B. Harvey, alias `nihonjinrxs` or `CodeAndData`. My pronouns are he/him/his. You can find out more about my prior work and activities at [codeanddata.codes](https://codeanddata.codes).
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nihonjinrxs&theme=tokyonight&show_icons=true&count_private=true" alt="Ryan Harvey's Github Stats"/>
+
 I'm a fun-loving geek who is driven to create useful things (mostly with code) almost as much as I am called to teach others how to do it themselves. I enjoy diving into data and have been known to get lost in SQL at times. I'm passionate about clean, purposeful interfaces and joyous user experiences. I read lots of books, but never seem to get through my reading list. I'm a happy husband and father of two.
 
-#### [![Healthify Logo - rainbow pride](https://www.healthify.us/hs-fs/hubfs/healthify-pride-logo-1.png?width=162&height=36&name=healthify-pride-logo-1.png)](https://healthify.us)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihonjinrxs&theme=tokyonight&langs_count=6&layout=compact&count_private=true&hide=HTML,CSS,C%23" alt="Ryan Harvey's Most Used Computer Languages"/>
+
+#### <a href="https://healthify.us"><img align="left" height="70" alt="Healthify (powered by WellSky) Logo" src="https://www.healthify.us/hubfs/Healthify_WellSky_Color_RGB.svg"/></a>
 I'm currently working with the amazing team at [Healthify, Inc.](https://healthify.us), a startup enabling organizations to address the social determinants of health by providing solutions for identifying social needs, searching for social services, and coordinating care with an integrated network of community partners to improve outcomes. Day-to-day, you can find me working in Ruby on Rails, JavaScript and React, Python3 and dbt, Bash, SQL, Docker, AWS, or any of a few other odds and ends.
 
 On the side, you might find me leading the [Code for New Orleans](https://codeforneworleans.org) volunteer brigade of [Code for America](https://codeforamerica.org), contributing to projects at [Ruby for Good](https://rubyforgood.org/), or teaching Computer Science at [Loyola University New Orleans](https://www.loyno.edu/academics/colleges/college-arts-sciences/computer-science). I also enjoy exploring Elixir and Rust, video game randomizers, and computer generated music and art, though I don't claim to be good at any of those.
