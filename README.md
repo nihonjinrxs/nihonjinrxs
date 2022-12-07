@@ -1,6 +1,6 @@
-### Welcome, friend :wave:
+### Welcome, friend! :wave: I'm Ryan (he/him). Nice to meet you!
 
-You've stumbed upon the Github home of **_Ryan B. Harvey_**, alias **`nihonjinrxs`** or **`CodeAndData`**. My pronouns are **_he/him/his_**. You can find out more about my prior work and activities at **_[codeanddata.codes](https://codeanddata.codes)_**.
+You've stumbed upon (or perhaps found intentionally) the Github home of **_Ryan B. Harvey_**, alias **`nihonjinrxs`** or **`CodeAndData`**. You can find out more about my prior work and activities at **_[codeanddata.codes](https://codeanddata.codes)_**.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nihonjinrxs&theme=tokyonight&show_icons=true&count_private=true" alt="Ryan Harvey's Github Stats"/>
 
