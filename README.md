@@ -2,7 +2,19 @@
 
 You've stumbed upon (or perhaps found intentionally) the Github home of **_Ryan B. Harvey_**, alias **`nihonjinrxs`** or **`CodeAndData`**. You can find out more about my prior work and activities at **_[codeanddata.codes](https://codeanddata.codes)_**.
 
+<picture align="right">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=nihonjinrxs&theme=tokyonight&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: dark)"
+  alt="Ryan Harvey's Github Stats"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=nihonjinrxs&theme=vue&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  alt="Ryan Harvey's Github Stats"
+/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nihonjinrxs&theme=tokyonight&show_icons=true&count_private=true" alt="Ryan Harvey's Github Stats"/>
+</picture>
 
 I'm a fun-loving geek :neckbeard: who is driven to create useful things 🏗️ (mostly with code) almost as much as I am called to teach 👨‍🏫 others how to do it themselves. I enjoy diving into data and have been known to get lost in SQL at times. I'm passionate about clean, purposeful interfaces ✨ and joyous user experiences 🥰. I read lots of books :books:, but never seem to get through my reading list. I'm a happy husband 💑 and father of two 👨‍👩‍👧‍👦.
 
