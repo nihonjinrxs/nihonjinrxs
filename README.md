@@ -21,7 +21,21 @@ I'm a fun-loving geek :neckbeard: who is driven to create useful things 🏗️ 
 #### <a href="https://www.screencastify.com/"><img align="left" height="35" alt="Screencastify Logo" src="https://assets-global.website-files.com/60a542fbe956e055e9d41cff/60a5bf4dffac65edc12c6be8_logo.svg"/></a>
 I'm a **_Staff Software Engineer_** with the amazing team at [Screencastify](https://screencastify.com), a startup helping to make video-based instruction easy for teachers and school districts by providing a suite of tools for creation and editing of videos and assignment creation and tracking based on those videos. In that role, I do a variety of work to help the team operate effectively and the company be successful, including de-risking and prototyping new ideas and approaches, breaking down and planning engineering work, architecting large-scale changes to the code bases, identifying patterns and technologies that we can build on, coaching and mentoring colleagues, building software and supporting systems, and pairing and mobbing with fellow engineers to solve problems.
 
+<picture align="right">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nihonjinrxs&theme=tokyonight&langs_count=6&layout=compact&count_private=true&hide=HTML,CSS,C%23"
+  media="(prefers-color-scheme: dark)"
+  alt="Ryan Harvey's Most Used Computer Languages"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nihonjinrxs&theme=vue&langs_count=6&layout=compact&count_private=true&hide=HTML,CSS,C%23"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  alt="Ryan Harvey's Most Used Computer Languages"
+/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihonjinrxs&theme=tokyonight&langs_count=6&layout=compact&count_private=true&hide=HTML,CSS,C%23" alt="Ryan Harvey's Most Used Computer Languages"/>
+</picture>
+
+
 
 On the side, you might find me leading the [Code for New Orleans](https://codeforneworleans.org) volunteer brigade of [Code for America](https://codeforamerica.org), contributing to projects at [Ruby for Good](https://rubyforgood.org/), or teaching Computer Science at [Loyola University New Orleans](https://www.loyno.edu/academics/colleges/college-arts-sciences/computer-science). I also enjoy exploring Elixir <a href="https://elixir-lang.org" title="Elixir"><img src="https://github.com/elixir-lang/elixir-lang.github.com/blob/main/downloads/logos/elixir-vertical.png" alt="Elixir" width="12px" height="21px"></a> and Rust <a href="https://www.rust-lang.org/" title="Rust"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/rust.svg" alt="Rust" width="21px" height="21px"></a>, video game randomizers, and computer generated music and art, though I don't claim to be good at any of those.
 
