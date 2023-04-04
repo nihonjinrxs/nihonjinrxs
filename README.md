@@ -32,7 +32,7 @@ I'm a **_Staff Software Engineer_** with the amazing team at [Screencastify](htt
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   alt="Ryan Harvey's Most Used Computer Languages"
 />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihonjinrxs&theme=tokyonight&langs_count=6&layout=compact&count_private=true&hide=HTML,CSS,C%23" alt="Ryan Harvey's Most Used Computer Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihonjinrxs&theme=tokyonight&langs_count=6&layout=compact&count_private=true&hide=CSS,CSS3,HTML,HTML5" alt="Ryan Harvey's Most Used Computer Languages"/>
 </picture>
 
 
